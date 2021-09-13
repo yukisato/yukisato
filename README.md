@@ -1,4 +1,6 @@
-### Hi there 👋
+![Yuki's GitHub stats](https://github-readme-stats.vercel.app/api?username=yukisato&show_icons=true&count_private=true&include_all_commits=true)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=yukisato&column=4&row=1)
 
 <!--
 **yukisato/yukisato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
